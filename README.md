@@ -28,6 +28,7 @@
 - SATS 买不起
 - Goldenratio 买不起 
 - FloraForms
+  这是Harto与维也纳 Belveder 博物馆合作推出的1万张生成式艺术品，致敬该博物馆的镇馆之宝——《The Kiss》。其中有些seed相同的作品，比如两张seed相同，三张seed相同，最多的是四张seed相同。所有NFT引用的是这个[库](https://www.ord.io/60654055)
  
 相关链接
 - [个人网站](https://side.xyz/harto)
